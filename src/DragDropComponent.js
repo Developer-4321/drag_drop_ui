@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Box, Modal, Typography, Button, TextField } from "@mui/material";
+import { Box} from "@mui/material";
 import ItemModal from "./components/ItemModal";
 import DraggableItem from "./components/DraggableItem";
 import DroppableArea from "./components/DroppableArea";
